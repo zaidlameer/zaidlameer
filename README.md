@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zaid Lameer</h1>
 <h3 align="center">A passionate Software Engineering Undergraduate at the Informatics Institute of Technology</h3>
 
-- 🌱 I’m currently learning: **B(Eng)Software Engineering**
+- 🌱 I’m currently doing my: **Bacherlors in Software Engineering**
 
 - 💬 Ask me about: **Web Development, App Development**
 
