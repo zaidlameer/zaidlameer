@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Zaid Lameer</h1>
-<h3 align="center">A passionate Software Engineering Undergraduate at the Informatics Institute of Technology</h3>
+<h3 align="center">Software Engineering Undergraduate at the Informatics Institute of Technology</h3>
 
-- 🌱 I’m currently doing my: **Bacherlors in Software Engineering**
+- 💬 Lets talk about Machine Learning
 
-- 💬 Ask me about: **Web Development, App Development**
+- 📫: **zaidlameer8@gmail.com**
 
-- 📫 How to reach me: **zaid.20211560@iit.ac.lk**
-
-- 👪 Clubs and Societies: IEEE Member, Rotaract Club member
-
-- ⚡ Fun fact: **I enjoy playing the game of life**
+-    IEEE Member, Rotaract Club member
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
