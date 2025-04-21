@@ -27,11 +27,4 @@ Welcome to my GitHub profile! I'm a passionate **developer, researcher, and tech
 - 💼 [LinkedIn](https://www.linkedin.com/in/lameerzaid/)  
 - 🐦 [Twitter](https://x.com/zaid_lameer)  
 
----
-
-### 💡 Motto
-
-> "I'm not an alcoholic." – Thevun the alcoholic
-
-Thanks for stopping by! 🚀 Let’s build something awesome together.
 
