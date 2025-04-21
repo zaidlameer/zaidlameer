@@ -24,15 +24,14 @@ Welcome to my GitHub profile! I'm a passionate **developer, researcher, and tech
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- 🐦 [Twitter](https://twitter.com/yourhandle)  
-- 🌐 [Portfolio Website](https://yourwebsite.com) *(if you have one)*  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lameerzaid/)  
+- 🐦 [Twitter](https://x.com/zaid_lameer)  
 
 ---
 
 ### 💡 Motto
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
+> "I'm not an alcoholic." – Thevun the alcoholic
 
 Thanks for stopping by! 🚀 Let’s build something awesome together.
 
