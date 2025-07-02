@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a passionate **developer, researcher, and tech
 
 - 💻 **Languages:** Python, JavaScript, TypeScript, C/C++, HTML/CSS
 - 📦 **Frameworks:** TensorFlow, PyTorch, React, Node.js, Flask, FastAPI
-- ☁️ **Cloud & DevOps:** GitHub Actions, Docker, Firebase, Vercel
+- ☁️ **Cloud & DevOps:** GitHub Actions, Docker, Supabase, Vercel
 - 🧪 **Tools:** VSCode, Git, Postman, Figma, Hugging Face 🤗
 
 ---
