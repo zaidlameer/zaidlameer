@@ -1,30 +1,60 @@
-# 👋 Hello there, I'm Zaid!
+<h1 align="center">Hi there, I'm <a href="https://github.com/zaidlameer" target="_blank">Zaid</a> 👨‍💻</h1>
 
-Welcome to my GitHub profile! I'm a passionate **developer, researcher, and tech enthusiast** with a love for building intelligent systems and solving real-world problems through code. Whether it's working with **Machine Learning**, **IoT projects**, or **Full-Stack Web Development**, I'm always curious and eager to learn something new.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=25F7F7&background=00000000&center=true&vCenter=true&width=435&lines=Associate+Software+Engineer;BSc+(Hons)+Software+Engineering;Full+Stack+Developer;Cybersecurity+Enthusiast" alt="Typing SVG" />
+</p>
 
----
-
-## 🧠 About Me
-
-- 🎓 Final-year student passionate about AI, deep learning, and software engineering.
-- 💡 Currently working on: `Deepfake Detection Systems` and `Lightweight AI Models for Edge Devices`.
-- 🐍 Languages: Python, JavaScript, TypeScript, C++.
-- ⚡ Fun fact: I love blending tech with creative projects — from smart home systems to AI-powered apps.
-
----
-
-## 🔥 Tech Stack
-
-- 💻 **Languages:** Python, JavaScript, TypeScript, C/C++, HTML/CSS
-- 📦 **Frameworks:** TensorFlow, PyTorch, React, Node.js, Flask, FastAPI
-- ☁️ **Cloud & DevOps:** GitHub Actions, Docker, Supabase, Vercel
-- 🧪 **Tools:** VSCode, Git, Postman, Figma, Hugging Face 🤗
+<p align="center">
+   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_ID/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+   </a>
+   <a href="mailto:zaidlameer8@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+   </a>
+</p>
 
 ---
 
-## 📫 Connect With Me
+### 🚀 About Me
+- 🎓 I recently graduated with a **BSc (Hons) in Software Engineering**.
+- 💻 Currently working as an **Associate Software Engineer**.
+- 🐍 I love using **Python** for backend logic and **React** for crisp UIs.
+- 🔐 I have a growing interest in **Cybersecurity** and secure coding practices.
+- 🔭 I’m currently working on: **A Secure Full-Stack Web App**.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/lameerzaid/)  
-- 🐦 [Twitter](https://x.com/zaid_lameer)  
+---
 
+### 🛠️ Tech Stack
 
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <br>
+  <!-- Backend & Python -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <br>
+  <!-- Security & Tools -->
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+### 📊 Github Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zaidlameer&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="github stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidlameer&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="languages" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaidlameer&theme=radical&hide_border=true&background=0D1117" alt="streak" />
+</div>
