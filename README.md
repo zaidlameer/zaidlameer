@@ -1,6 +1,6 @@
-<h1 align="center">Wassup, I'm <a href="https://github.com/zaidlameer" target="_blank">Zaid</a> 👨‍💻</h1>
+<h1 align="center">Hello there, I'm <a href="https://github.com/zaidlameer" target="_blank">Zaid</a> 👨‍💻</h1>
 
-### 🛠️ Tech Stack
+### 🛠️ My Tech Stack 🛠️
 
 <p align="center">
   <!-- Frontend -->
@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-D30001?style=for-the-badge&logo=rubyonrails&logoColor=white" />
   <br>
   <!-- Security & Tools -->
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
